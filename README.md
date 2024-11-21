@@ -47,7 +47,7 @@ The **CTO of Gnod, Jane**, has outlined your first challenge:
 
 ---
 
-### 🔧 **Next Steps**
+### 🔧 **Steps**
 1. **Data Acquisition**: Gather song data from reliable sources (e.g., APIs, web scraping).  
 2. **Data Exploration**: Analyze features and identify potential clustering criteria.  
 3. **Song Clustering**: Apply machine learning techniques to group songs.  
