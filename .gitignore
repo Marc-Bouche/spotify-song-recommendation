@@ -12,3 +12,4 @@ __pycache__/config1.cpython-312.pyc
 .cache
 /__pycache__
 .cache
+*.csv
