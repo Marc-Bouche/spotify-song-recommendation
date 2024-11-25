@@ -1,16 +1,13 @@
 song_title,artist,origin
-(Feels Like) Heaven,Fiction Factory,DE
 +57,"Karol G, Feid & DFZM Featuring Ovy On The Drums, J Balvin, Maluma, Ryan Castro & Blessd",WW
-231 - Und Der Dreiäugige Schakal (Inhaltsangabe),Die drei ???,DE
 25,Rod Wave,WW
 28,Zach Bryan,WW
 4X4Xu,Lainey Wilson,WW
 A Bar Song (Tipsy),Shaboozey,WW_DE
+A Lot More Free,Max McNown,DE
 Ain'T No Love In Oklahoma,Luke Combs,WW
 All I Want For Christmas Is You,Mariah Carey,DE
 All My Life,Purple Disco Machine & The Magician,DE
-Alpenrausch,Pepe Palme & DJ Zwibbelwirt,DE
-Always Remember Us This Way,Lady Gaga,DE
 Am I Okay?,Megan Moroney,WW
 Apple,Charli xcx,WW
 Apt.,ROSE & Bruno Mars,WW_DE
@@ -22,11 +19,14 @@ Bauch Beine Po,Shirin David,DE
 Beautiful As You,Thomas Rhett,WW
 Beautiful Things,Benson Boone,WW_DE
 Bed Chem,Sabrina Carpenter,WW
-Belong Together,Mark Ambor,DE
 Birds Of A Feather,Billie Eilish,WW_DE
 Black Friday (Pretty Like The Sun),Lost Frequencies & Tom Odell,DE
+Born With A Broken Heart,Damiano David,DE
+Broken Sunshine,Michael Schulte,DE
 Brokey,Latto,WW
+Call My Name (Feat. Sofiloud),Alle Farben,DE
 Close To You,Gracie Abrams,WW
+Cosmic Dancer,T. Rex,DE
 Cowgirls,Morgan Wallen Featuring ERNEST,WW
 Criminals,Meghan Trainor,WW
 Dancing In The Flames,The Weeknd,WW_DE
@@ -34,40 +34,45 @@ Dancing In The Flames,The Weeknd,WW_DE
 Die With A Smile,Lady Gaga & Bruno Mars,WW_DE
 Diet Pepsi,Addison Rae,WW
 Disease,Lady Gaga,WW_DE
-Dj Play A Christmas Song,Cher & Giovanni Zarrella,DE
+Do They Know It'S Christmas? (1984 Version),Band Aid,DE
+Don'T Stop Believin' (2024 Remaster),Journey,DE
 Dos Dias,Tito Double P & Peso Pluma,WW
+Driving Home For Christmas,Chris Rea,DE
 El Lokeron,Tito Double P,WW
-Es Ist Nacht (Feat. Benne & Kaiser Quartett),Schönherz & Fleer & Clara Louise,DE
 Espresso,Sabrina Carpenter,WW_DE
-Euros & Dollars,Shahri & Sama,DE
+Fantastic (From The Series Arcane League Of Legends),"Arcane, League of Legends Music & King Princess",DE
 Fata Morgana,Nina Chuba & Tokio Hotel,DE
 Fata Morgana,Nina Chuba,DE
 Feelslikeimfallinginlove,Coldplay,DE
+Feliz Navidad,José Feliciano,DE
+Fieber Flow,Julien Bam & Mahluna,DE
 Fliegen,Nina Chuba,DE
 For Me,Loe Shimmy & Brent Faiyaz,WW
+Forbidden Road (From Better Man: Original Motion Picture Soundtrack),Robbie Williams,DE
 Forever Young,"David Guetta, Alphaville & Ava Max",DE
 Forever Young,Alphaville,DE
 Forever Young (Extended),"David Guetta, Alphaville & Ava Max",DE
+Fortnight (Feat. Post Malone),Taylor Swift,DE
 Freestyler (Rock The Microphone),Lost Frequencies & Bomfunk MC's,DE
 Friends,KAMRAD,DE
+Für Mich Soll'S Rote Rosen Regnen,Hildegard Knef,DE
 Geschlossene Augen,SANTOS & Sido,DE
 Good Graces,Sabrina Carpenter,WW
 "Good Luck, Babe!",Chappell Roan,WW_DE
-Good Things Go,LINKIN PARK,DE
-Gorgeous,"Snoop Dogg, Dr. Dre & Jhené Aiko",DE
-Guten Morgen Sonnenschein,Nana Mouskouri,DE
 Guy For That,Post Malone Featuring Luke Combs,WW
+Hallelujah,Pentatonix,DE
 Halo,Rea Garvey,DE
 Hard Fought Hallelujah,Brandon Lake,WW
 Heart Of A Woman,Summer Walker,WW
+Heart Of Gold,Shawn Mendes,DE
 Heavy Is The Crown,LINKIN PARK,DE
 Help Me,Real Boston Richey,WW
 High Road,Zach Bryan,WW
 High Road,Koe Wetzel & Jessie Murph,WW
 Him All Along,Gunna,WW
+Home Sweet Home (Feat. Taeyang & Daesung),"G-DRAGON, TAEYANG & DAESUNG",DE
 Hot To Go!,Chappell Roan,WW
 Houdini,Eminem,DE
-Hurt,Johnny Cash,DE
 I Adore You (Feat. Daecolm),"HUGEL, Topic & Arash",DE
 I Ain'T Sayin',Jordan Davis,WW
 I Am Not Okay,Jelly Roll,WW
@@ -80,13 +85,13 @@ I Never Lie,Zach Top,WW
 I'M Gonna Love You,Cody Johnson & Carrie Underwood,WW
 Ich Werde Da Sein,Roland Kaiser,DE
 Idiot (Feat. Michelle) [Stereoact Remix],Stereoact & Matthias Reim,DE
+In Der Weihnachtsbäckerei,Rolf Zuckowski und seine Freunde,DE
 In The Air Tonight,Phil Collins,DE
-Irgendwann Im Leben,Nino de Angelo,DE
 It Feels So Good,Matt Sassari & HUGEL,DE
 It Girl,Shirin David & Sampagne,DE
 It'S Beginning To Look A Lot Like Christmas,Michael Bublé,DE
-It'S My Life,Bon Jovi,DE
 It'S Ok I'M Ok,Tate McRae,WW
+Jeden Tag Weihnachten,Wincent Weiss,DE
 Judge Judy,"Tyler, The Creator",WW
 Juno,Sabrina Carpenter,WW
 Kehlani,Jordan Adetunji,WW
@@ -96,93 +101,87 @@ Last Christmas,Wham!,WW
 Last Christmas (Single Version),Wham!,DE
 Let'S Go,Jaden Bojsen & David Guetta,DE
 Liar,Jelly Roll,WW
-Liebe Auf Den Ersten Beat,Pazoo & Blümchen,DE
 Lies Lies Lies,Morgan Wallen,WW
-Like A Prayer (Choir Version From “Deadpool & Wolverine”),I'll Take You There Choir,DE
 Like Him,"Tyler, The Creator Featuring Lola Young",WW
 Lonely Road,mgk & Jelly Roll,WW
 Lose Control,Teddy Swims,WW_DE
 Love Somebody,Morgan Wallen,WW
-Mach Dich Locker,Durchblick,DE
+Luther,Kendrick Lamar & SZA,DE
+Ma Meilleure Ennemie (From The Series Arcane League Of Legends),Stromae & Pomme,DE
 Mama Hat Gesagt,"SDP, Sido & Esther Graf",DE
 Mamushi,Megan Thee Stallion Featuring Yuki Chiba,WW
-Merciless,Body Count,DE
 Miami,Apache 207,DE
 Miles On It,Marshmello & Kane Brown,WW
 Million Dollar Baby,Tommy Richman,WW
-Mystery Of Love,Soap&Skin,DE
-Nasser Asphalt,Samra,DE
+Move,"Adam Port, Stryv & Malachiii",DE
 Nel,Fuerza Regida,WW
+Never Give Up On Me,Mary J. Blige,DE
 New Drop,Don Toliver,WW
 No One Noticed,The Marias,WW
 No Pole,Don Toliver,WW
 Noid,"Tyler, The Creator",WW
 Not Like Us,Kendrick Lamar,WW
+Nothing Compares 2 U,Sinéad O'Connor,DE
 Now Or Never,Pitbull & Bon Jovi,DE
+Number One Girl,ROSÉ,DE
+Old Friend,Zaho de Sagazan & Tom Odell,DE
 On One Tonight,Gunna,WW
 Or What?,NLE Choppa & 41,WW
-Outta Da Blue,"Snoop Dogg, Dr. Dre & Alus",DE
 Over Each Other,LINKIN PARK,DE
+People Watching,Sam Fender,DE
 Pink Pony Club,Chappell Roan,WW
 Pink Skies,Zach Bryan,WW
 Please Please Please,Sabrina Carpenter,WW
 Prove It,21 Savage & Summer Walker,WW
+Psycho Killer,Get Well Soon,DE
 Rah Tah Tah,"Tyler, The Creator",WW
 Ray Of Light,Nico Santos,DE
 Residuals,Chris Brown,WW
-Running Wild,Jin,DE
+Rock N Roll,Leony & G-Eazy,DE
 Sailor Song,Gigi Perez,WW
-Saved My Life (Extended Mix),"Avi Snow, Tamir Regev & Eytan Peled",DE
+Sarà Perché Ti Amo,Ricchi & Poveri,DE
 Shake Dat Ass (Twerk Song),BossMan Dlow,WW
-Shut Up And Dance,Sophie and the Giants,DE
-Si Antes Te Hubiera Conocido,KAROL G,DE
 Snowman,Sia,DE
 Someday Soon,ClockClock,DE
+Squabble Up,Kendrick Lamar,DE
 St. Chroma,"Tyler, The Creator Featuring Daniel Caesar",WW
 Stargazing,Myles Smith,WW
 Stars Will Align,Kygo & Imagine Dragons,DE
 Sticky,"Tyler, The Creator Featuring GloRilla, Sexyy Red & Lil Wayne",WW
 Stumblin' In,CYRIL,DE
-São Paulo,The Weeknd & Anitta,DE
 Take Your Mask Off,"Tyler, The Creator Featuring Daniel Caesar & Latoiya Williams",WW
-Talkin' Bout A Revolution,Tracy Chapman,DE
-Taste,Sabrina Carpenter,WW_DE
-Taximann (Live Waldbühne Berlin),Westernhagen,DE
+Taste,Sabrina Carpenter,WW
 Te Imaginaba,Alvaro Soler,DE
 Tgif,GloRilla,WW
 That'S So True,Gracie Abrams,WW
 That’S So True,Gracie Abrams,DE
-The Cave,Safri Duo,DE
-The Door,Teddy Swims,WW
+The Door,Teddy Swims,WW_DE
 The Emptiness Machine,LINKIN PARK,DE
-The End,Soap&Skin,DE
 The Largest,BigXthaPlug,WW
-The Sound Of Silence,Disturbed,DE
+The Next Episode (Feat. Snoop Dogg),Dr. Dre,DE
 The Sound Of Silence (Cyril Remix),Disturbed,DE
 Thick Of It,KSI Featuring Trippie Redd,WW
 Think I'M In Love With You,Chris Stapleton,WW
 This World'S A Giant,Zach Bryan,WW
 Thought I Was Dead,"Tyler, The Creator Featuring ScHoolboy Q & Santigold",WW
-Timeless,The Weeknd & Playboi Carti,WW
+Timeless,The Weeknd & Playboi Carti,WW_DE
+To Love Someone,Benson Boone,DE
+Told You So,Martin Garrix & Jex,DE
 Too Sweet,Hozier,WW_DE
 Tu Boda,Oscar Maydon & Fuerza Regida,WW
 Two Faced,LINKIN PARK,DE
-Vois Sur Ton Chemin (Techno Mix),BENNETT,DE
-"Was Ist Liebe (Feat. Benne, Clara Louise & Kaiser Quartett)",Schönherz & Fleer,DE
+Unstoppable,Sia,DE
 Wave,FAST BOY & Raf,DE
 We Pray,"Coldplay, Little Simz, Burna Boy, Elyanna & TINI",DE
 Weiße Haare,Florian Künstler,DE
-Wenn Du Aufwachst,Berit Finke,DE
 Whatchu Kno About Me,GloRilla & Sexyy Red,WW
-Whiplash,Architects,DE
 Who,Jimin,WW
 Why Why Why,Shawn Mendes,DE
 Wildflower,Billie Eilish,WW
 Wind Up Missin' You,Tucker Wetmore,WW
-Winter Ahead,V & Park Hyo Shin,DE
+Wir Sind Am Leben,Rainhard Fendrich,DE
 Wonderful Dream (Holidays Are Coming) [Radio Version],Melanie Thornton,DE
 Wondering Why,The Red Clay Strays,WW
 World Gone Wild (Feat. Sam Martin),Robin Schulz & CYRIL,DE
 Wunder,AYLIVA & Apache 207,DE
 You Look Like You Love Me,Ella Langley Featuring Riley Green,WW
-Young Lion,Sade Adu,DE
