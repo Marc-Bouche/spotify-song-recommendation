@@ -44,7 +44,7 @@ except Exception as e:
     st.stop()
 
 # Spotify API Credentials
-import spotify_config
+from spotify_config import client_id, client_secret
 
 # Initialize Spotipy
 sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id=client_id, client_secret=client_secret))
