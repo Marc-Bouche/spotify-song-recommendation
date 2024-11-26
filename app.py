@@ -43,8 +43,9 @@ except Exception as e:
     st.error(f"Error during K-Means clustering: {e}")
     st.stop()
 
-# Spotify API Credentials
-from spotify_config import client_id, client_secret
+# Get client_id and client_secret from Streamlit secrets
+client_id = st.secrets["SPOTIPY_CLIENT_ID"]
+client_secret = st.secrets["SPOTIPY_CLIENT_SECRET"]
 
 # Initialize Spotipy
 sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id=client_id, client_secret=client_secret))
